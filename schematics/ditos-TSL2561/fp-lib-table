@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TSL2561)(type KiCad)(uri "$(KIPRJMOD)/TSL2561.pretty")(options "")(descr ""))
+)
